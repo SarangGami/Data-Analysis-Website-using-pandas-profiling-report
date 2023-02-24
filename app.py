@@ -4,9 +4,6 @@ import streamlit as st
 from pandas_profiling import ProfileReport
 from streamlit_pandas_profiling import st_profile_report
 from PIL import Image
-from annotated_text import annotated_text
-import matplotlib.pyplot as plt
-import seaborn as sns
 
 
 img = Image.open("C:/Users/lenovo/Desktop/EDA web app/logo4.png")
