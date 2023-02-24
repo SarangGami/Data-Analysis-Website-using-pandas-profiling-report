@@ -5,7 +5,7 @@ from pandas_profiling import ProfileReport
 from streamlit_pandas_profiling import st_profile_report
 from PIL import Image
 
-img = Image.open(r"C:\Users\lenovo\Pictures\Saved Pictures\CSV files for website demo/web_logo.png")
+img = Image.open(r"C:\Users\lenovo\Pictures\Saved Pictures\CSV files for website demo\web_logo.png")
 st.set_page_config(page_title = 'EDA_Analysis.com', page_icon='img',layout='wide')
 
 
