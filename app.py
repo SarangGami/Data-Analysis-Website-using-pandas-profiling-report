@@ -6,7 +6,7 @@ from streamlit_pandas_profiling import st_profile_report
 from PIL import Image
 
 
-img = Image.open("C:/Users/lenovo/Desktop/EDA web app/logo4.png")
+img = Image.open("C:\Users\lenovo\Desktop\EDA web app\logo4.png")
 st.set_page_config(page_title = 'EDA_Analysis.com', page_icon='img',layout='wide')
 
 
