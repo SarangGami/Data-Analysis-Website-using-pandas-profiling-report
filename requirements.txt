@@ -1,0 +1,5 @@
+streamlit
+pandas
+numpy
+pandas-profiling
+streamlit-pandas-profiling
