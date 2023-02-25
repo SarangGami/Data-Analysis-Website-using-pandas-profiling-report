@@ -3,6 +3,7 @@ import pandas as pd
 import streamlit as st
 from pandas_profiling import ProfileReport
 from streamlit_pandas_profiling import st_profile_report
+from PIL import Image
 import os
 
 img_path = os.path.join("D:\\","web_logo.png")
