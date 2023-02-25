@@ -10,10 +10,10 @@ st.set_page_config(page_title = 'EDA_Analysis.com',layout='wide')
 # Web App Title
 st.markdown(
     """
-    <div style='text-align:center; background-color:#ABABAB; padding: 20px'>
+    <div style='text-align:center; background-color:#00c5c8; padding: 20px'>
         <h1>The EDA-Analysis</h1>
         <h3>Exploratory Data Analysis with pandas-profiling</h3>
-        <div style='background-color:#C6C6C6; padding: 10px'>
+        <div style='background-color:#8e8e8e; padding: 10px'>
             <p style='margin-bottom: 0;'><b>Credit :</b> App built in `Python` + `Streamlit` by </p>
             <p style='margin-top: 0;'><a href='https://github.com/SarangGami'>SARANG GAMI</a></p>
         </div>
@@ -48,7 +48,7 @@ if uploaded_file is not None:
 else:
     st.markdown(
         """
-        <div style='background-color: #E2E2E2; padding: 10px;'>
+        <div style='background-color: #occ9bc; padding: 10px;'>
             <h3 style='margin-top: 0;'>Awaiting CSV file upload</h3>
             <p style='margin-bottom: 0;'>Please upload a CSV file to begin the analysis.</p>
             <p style='margin-top: 0;'>Alternatively, click the button below to use an example dataset.</p>
