@@ -65,7 +65,7 @@ else:
     if st.button('Press to use Example Dataset'):
         st.markdown(
             """
-            <div style='background-color: #7BF1A8; padding: 10px; margin-top: 5px;'>
+            <div style='background-color: #228c22; padding: 10px; margin-top: 5px;'>
                 <p style='margin-bottom: 0;'>Using example dataset.</p>
             </div>
             """,
