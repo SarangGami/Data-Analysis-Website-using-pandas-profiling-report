@@ -3,8 +3,12 @@ import pandas as pd
 import streamlit as st
 from pandas_profiling import ProfileReport
 from streamlit_pandas_profiling import st_profile_report
+import os
 
-st.set_page_config(page_title = 'EDA_Analysis.com',layout='wide')
+img_path = os.path.join("D:\\","web_logo.png")
+img = Image.open(img_path)
+
+st.set_page_config(page_title = 'EDA_Analysis.com', page_icon='img',layout='wide')
 
 
 # Web App Title
