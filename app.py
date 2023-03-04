@@ -4,15 +4,15 @@ import streamlit as st
 from pandas_profiling import ProfileReport
 from streamlit_pandas_profiling import st_profile_report
 
-st.set_page_config(page_title = 'EDA_Analysis.com',layout='wide')
+st.set_page_config(page_title = 'Data_Analysis.com',layout='wide')
 
 
 # Web App Title
 st.markdown(
     """
     <div style='text-align:center; background-color:#00c5c8; padding: 20px'>
-        <h1>The EDA-Analysis</h1>
-        <h3>Exploratory Data Analysis with pandas-profiling</h3>
+        <h1>Data-Analysis</h1>
+        <h3>Data Analysis with pandas-profiling</h3>
         <div style='background-color:#8e8e8e; padding: 10px'>
             <p style='margin-bottom: 0;'><b>Credit :</b> App built in `Python` + `Streamlit` by </p>
             <p style='margin-top: 0;'><a href='https://github.com/SarangGami'>SARANG GAMI</a></p>
