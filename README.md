@@ -14,4 +14,4 @@
 - Open-source and easily extendable
 
 
-### So why wait? [Click on this link](https://saranggami-eda-analysis-website-using-pandas-profile-app-8ef930.streamlit.app/) to start exploring your datasets with ease and speed.
+### So why wait? [Click on this link](https://saranggami-data-analysis-website-using-pandas-profil-app-ku3qed.streamlit.app/) to start exploring your datasets with ease and speed.
