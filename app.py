@@ -1,6 +1,8 @@
 import numpy as np
 import pandas as pd
 import streamlit as st
+pip install pandas-profiling
+pip install streamlit_pandas_profiling
 from pandas_profiling import ProfileReport
 from streamlit_pandas_profiling import st_profile_report
 
